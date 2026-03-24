@@ -1,0 +1,62 @@
+/* Cor de fundo suave azul claro para toda a página */
+
+
+/* Container principal */
+.App {
+  background-color: #ffffff; /* branco para contraste */
+  padding: 30px 50px;
+  border-radius: 12px;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  width: 350px;
+}
+
+/* Título */
+.App h1 {
+  color: #004080; /* azul escuro */
+  margin-bottom: 25px;
+}
+
+/* Inputs de valor */
+.App input[type="number"] {
+  width: 80%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 6px;
+  border: 1px solid #b3c6ff;
+  font-size: 16px;
+  outline: none;
+  transition: 0.3s;
+}
+
+/* Efeito ao focar no input */
+.App input[type="number"]:focus {
+  border-color: #3399ff;
+  box-shadow: 0 0 5px #3399ff;
+}
+
+/* Botão de calcular */
+.App button {
+  background-color: #3399ff; /* azul vibrante */
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  margin-top: 15px;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* Efeito hover no botão */
+.App button:hover {
+  background-color: #2673cc; /* azul mais escuro */
+}
+
+/* Resultado */
+.App p {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #004080; /* azul escuro */
+}
