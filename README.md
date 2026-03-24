@@ -1,1 +1,1 @@
-# trabalho-prova
+Nome dos integrantes: Gustavo Kaule Dos Santos, Diego Dutra do Amaral e João Victor.
