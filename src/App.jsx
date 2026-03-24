@@ -5,7 +5,7 @@ import PagInicial from './PagInicial'
 import Atv1 from './Atv1'
 import Atv2 from './Atv2'
 import Atv3 from './Atv3'
-
+import './index.css'
 function App() {
   return (
     <Routes>
