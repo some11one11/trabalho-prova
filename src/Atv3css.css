@@ -1,12 +1,5 @@
 /* Cor de fundo suave azul claro para toda a página */
-body {
-  background-color: #e6f0ff; /* azul clarinho */
-  font-family: Arial, sans-serif;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-}
+
 
 /* Container principal */
 .App {
